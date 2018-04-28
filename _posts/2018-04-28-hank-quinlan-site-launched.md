@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "noschenk, Horrible Noop, Launches Site"
 date: 2018-04-28
 ---
 
