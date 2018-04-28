@@ -1,2 +1,3 @@
 	name: noschenk, Bioinfoinfo
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
