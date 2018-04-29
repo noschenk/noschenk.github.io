@@ -8,4 +8,8 @@ As I recently started to work with github, I discovered there is something calle
 
 Setting up Jekyll was quite confusing for me (as a complete noop to all Web development stuff). Luckily, I found [Hank Quinlans site](http://jmcglone.com/guides/github-pages/) written by [Jonathan McGlone](http://jmcglone.com/) with a very detailed and good Tutorial of setting up a page. Thank you so much! As if the page with the tutorial was not enough, there is a whole Github repository from him ([Hank Quinlans Github repo](https://github.com/hankquinlan/hankquinlan.github.io)) where I could look up (the few) things I didn't understand from the tutorial. 
 
+```{r}
+vec <- c(2,3,4)
+```
+
 Well, let's see how this blog develops.
