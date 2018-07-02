@@ -1,4 +1,6 @@
-# Latex live hacks
+# Some useful Latex hacks
+Here some ideas and tricks I found useful when working with latex.
+
 ## include .pdf in your latex document or beamer
 Have you ever considered reading in figures directly from pdf? No? Do it, it is really nice and if you present a paper, it prevents you from having thousands of small files with screenshots of the paper's figures!
 
