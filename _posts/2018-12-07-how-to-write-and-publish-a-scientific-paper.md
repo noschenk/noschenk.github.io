@@ -34,6 +34,10 @@ The "shape" of the whole paper should be the shape of an **hourglass**.
  ![hourglass]({{ "/assets/hourglass.jpg" | absolute_url }})
  Provide broad orientation about the general research area in the beginning and e.g. state why the content is important, then narrow down on the specific research and in the end, put your findings into a broader context.
 
+ Have a clear idea in mind about the title, the outline and the background of the audience you are writing for before starting to write, so you will not write in many directions at the same time.
+
+ Begin **writing while the work is still in progress**. Then, everything is fresh in your mind and it is easier to find inconsistencies in the work. At this time point it is easier to go back to experimental work. If there are coauthors, it is easier to write while they are still available.
+
 
 # Chapter 5 - Ethics
 Report well your data, e.g. **outliers** and plan well your experiments.
@@ -60,4 +64,44 @@ No **abbreviations**, jargon or proprietary names.
 # Chapter 9 - Abstract
 The abstract should consist of a **summary of each section**, around 250 words.
 
-It should first state objectives and scope, 
+It should first state objectives and scope of the investigation, then describe the methods quickly, summarise the results and finally state the principal conclustion. The conclusion is often given three times, once in the abstract, then in the introcution and in a detailed form in the discussion.
+
+Include as few words as possible.
+
+# Chapter 10 - introduction
+The purpose of the introduction is that someone is able to understand the paper **without having to read previous work**.
+
+Write in present tense.
+
+First, present the **nature and scope** of the problem investigated, e.g. why this specific area is important (and interesting). Then, briefly summarize the important (and recent) **literature** and the **gap** of knowledge intented to fill. After, clearly state the **objective** of the study, maybe even the hypotheses. Describe quickly the **methods** used and if needed, why this method was chosen. Possibly also summarize the **results** quickly and mention the principal **conclusion**. An introduction following this structure has a "triangle" shape, like half of an hourglass, which guides the reader into the topic.
+
+If the problem is not described well enough, readers will not be interested in the solution.
+
+Don't hold back important informations/ conclusions to the end of the paper only because it could make your paper more interesting. It is not a novel where the end needs to be surprising. There is a nice citation in the book at this point : "Reading a scientific article isn't the same as reading a detective story. We want to know from the start that the butler did it. (Ratnoff 1981, p.96)"
+
+There can be overlap with the information given in the abstract.
+
+# Chapter 11 - Materials and Methods
+Mostly written in past tense.
+
+Describe and possibly defend the Methods you used in detail. Provide enough details **so a component person could reproduce your experiment**. Also provide enough details that someone else can judge about the drawbacks and advantages of the methods, and possibly therefore judge about the reliability of your work.
+
+Material should be described in all **technical details**, so someone else would be able to get the same starting material for reproduction. However, **trade names** are mostly not necessary to avoid advertisement. If they are included, captialize them and describe the product after, e.g. Kleenex facial tissues.
+
+Methods are usually presented chronologically or grouped by similarity.
+
+Think about a recipe in a cookbook while writing methods. Always keep the questions "how?" and "how much?" in mind.
+
+"Usual" **statistical methods** can just be mentioned and don't need a detailed description. Unusual or advanced methods should include a reference.
+
+If the method has already be used in another publication, give the reference. If the method is quite new, add a few sentences to describe it.
+
+Figures and Tables can help a lot, both the reader and the author.
+
+Don't include results in this section!
+
+As a control, give the methods to a collegue and ask if he/she would be able to reproduce the experiment. It is quite common to forget a detail if you are too close to the work.
+
+The use of passive voice is allowed here, as the experimentor is not the important part. "We" is sometimes used, and some papers allow the use of "I" as well.
+
+# Chapter 12 - Results
