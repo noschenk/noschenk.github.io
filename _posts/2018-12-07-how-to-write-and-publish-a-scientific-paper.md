@@ -126,3 +126,27 @@ Avoid usint "it" too much, *it* can make the text unclear.
 **Supplementing material** mostly contains information about results.
 
 # Chapter 13 - Discussion
+Considered the hardest section to write.
+
+Many Discussion sections are **too long**, maybe because wordy descriptions as "It was found in the present investigation that ..." are used.
+
+Main components are : 1. Presentation of the principles, generalizations and relationships of the results. It is not thought to be a recapitulation of the results. 2. Point out gaps like exceptions and lack of correlations, as well as unknown points. 3. Show how your results agree/contrast with previously published work. 4. Don't be shy to discuss implications of your work, theoretical and practical ones. 5. State conclusions as clearly as possible. 6. Summarize the evidence for each conclusion.
+
+The discussion is **paired with the introduction**. The questions stated in the introduction are answered in the discussion.
+
+The discussion is where the **hourglass shape** of the paper gets wide again, from the specific to the general.
+
+The **relationships among the results** should be shown.
+
+Note strengths and limitations of the work. It will help readers to gain an idea how to classify the results, e.g. how definitive they are. Showing limitations helps keeping the open character of science.
+
+Point out the significance of the results in the end, so the reader can take it with him/her/\*.
+
+# Chapter 35 - How to write a Thesis
+There are no general rules. The content and style depends on the institution mostly. Define with your supervisors what should be part of the thesis.
+
+Read other theses written by previous students of the same institution and search for common style.
+
+The introduction is very important, show that you know the field, maybe even include some science history, e.g. the development of a given field. Profit from the introduction yourself by learning a lot.
+
+Start early with wrapping up methods and keeping track of your ideas, e.g. in a file where you can constantly add notes.
