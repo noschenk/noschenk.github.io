@@ -18,4 +18,5 @@ The book gives practical tips about how to approach the task of writing and publ
 * Leave notes where detail information will be needed to fill in. Don't get yourself out of the writing flow by clarifying all the small details, it is enough for the start that you establish the order in which the information is given.
 * When you stop writing, leave a little note behind for future-you that explains you where you have stopped and what is the next action to do.
 * Revising! Many times! Count on it from the start.
-*
+* Let the draft be revised by others, ideally by one person from your field, one person in your general field and an "external" person interested in the content.
+* The "shape" of the whole paper should be the shape of an hourglass. ![hourglass]({{ "/assets/hourglass.jpg" | absolute_url }})
