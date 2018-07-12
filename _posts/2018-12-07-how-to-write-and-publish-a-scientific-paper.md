@@ -4,9 +4,11 @@ title: "How to Write and Publish a Scientific Paper - Barbara Gastel, Robert A. 
 date: 2018-07-12
 ---
 ![howtowrite_gastel]({{ "/assets/howtowrite_gastel.jpg" | absolute_url }})
-I would like to share a great book tip which I got from Marc: "How to Write and Publish a Scientific Paper". The first edition of this book was published in 1979. Since then it has been updated many times. The version I will present you here is an edition from Barbara Gastel which she wrote together with the original author, Robert A. Day.
+I would like to share a great book tip which I got from Marc: "How to Write and Publish a Scientific Paper". The idea started with a seminar teached by Robert A. Day which was about the topic. It became an article soon (Day 1975) and due to its high popularity, a book. In order to keep it up to date, there have been several editions, the eighth edition (which I summarize here) is the third one for which Barbara Gastel joined Robert A. Day.
 
-The book gives practical tips about how to approach the task of writing and publishing. I am reading it while writing my master thesis, so I will skip the part about publishing in my little summary below. I want to give you a little impression of what types of tips you can get out of the book and hopefully make you read the book. By the way, it is very easy to read, although I am not at all a native English speaker, I was able to understand the content easily and read through quite fast. That is already the first beautiful thing about this book. While reading it, I notice how the writer fulfills all her inputs and tips. The whole book is a template of how to write a paper (or - a book, of course).
+The book gives practical tips about how to approach the task of writing and publishing. I am reading it while writing my master thesis, so I will skip the part about publishing in my little summary below. I want to give you a little impression of what types of tips you can get out of the book and hopefully make you read the book. The summary will naturally be one large citation of the book, so all intellectual property belongs to the authors.
+
+The book is very easy to read, it is a great change to technical literature. Although I am not at all a native English speaker, I was able to follow the content easily and read through quite fast. Another beautiful thing about this book is the following. While reading it, I notice how much the authors fulfilled their inputs and tips. I more and more gained the impression that the whole book is a template of how to write a paper (or - a book, of course). Also, it can be quite funny, there are some cheeky little jokes in it.
 
 
 # Chapter 3 - Approaching a writing project
@@ -96,12 +98,31 @@ Think about a recipe in a cookbook while writing methods. Always keep the questi
 
 If the method has already be used in another publication, give the reference. If the method is quite new, add a few sentences to describe it.
 
-Figures and Tables can help a lot, both the reader and the author.
+**Figures and Tables** can help a lot, both the reader and the author.
 
 Don't include results in this section!
 
-As a control, give the methods to a collegue and ask if he/she would be able to reproduce the experiment. It is quite common to forget a detail if you are too close to the work.
+As a control, give the methods to a colleague and ask if he/she would be able to reproduce the experiment. It is quite common to forget a detail if you are too close to the work.
 
-The use of passive voice is allowed here, as the experimentor is not the important part. "We" is sometimes used, and some papers allow the use of "I" as well.
+The use of passive voice is allowed here, as the experimenter is not the important part here. "We" is sometimes used, and some papers allow the use of "I" as well.
 
 # Chapter 12 - Results
+Results are written in **past tense**.
+
+First, give an overall description of the experiment, second, present the data.
+
+Present **representative data**, without repeating endlessly. Predigest data a bit instead of presenting every small result you got.
+
+**Numbers** can be given within a flowtext if there are not too many of them. Otherwise, a table or figure is a good choice. The variables that did not influence the reaction of your subject should be commented in a text, but do not need to be presented in a graph or table.
+
+*"The results should be short and sweet, without verbiage."*
+
+This section is mostly the shortest, especially if the surrounding sections, Materials and Methods and Discussion, are well-written.
+
+**No redundancy** in the Results section. Things which are shown in Figures and Tables do not need to be explained again in the text.
+
+Avoid usint "it" too much, *it* can make the text unclear.
+
+**Supplementing material** mostly contains information about results.
+
+# Chapter 13 - Discussion
