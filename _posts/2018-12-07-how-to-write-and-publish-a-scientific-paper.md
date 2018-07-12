@@ -3,8 +3,8 @@ layout: post
 title: "How to Write and Publish a Scientific Paper - Barbara Gastel, Robert A. Day"
 date: 2018-07-12
 ---
-
-I would like to share a great book tip which I got from Marc: ![howtowrite_gastel]({{ "/assets/howtowrite_gastel.jpg" | absolute_url }}). The first edition of this book was published in 1979, since then it has been republished many times. The version I will present you here is an edition from Barbara Gastel which she wrote together with the original author, Robert A. Day.
+![howtowrite_gastel]({{ "/assets/howtowrite_gastel.jpg" | absolute_url }})
+I would like to share a great book tip which I got from Marc: "How to Write and Publish a Scientific Paper". The first edition of this book was published in 1979. Since then it has been updated many times. The version I will present you here is an edition from Barbara Gastel which she wrote together with the original author, Robert A. Day.
 
 The book gives practical tips about how to approach the task of writing and publishing. I am reading it while writing my master thesis, so I will skip the part about publishing in my little summary below. I want to give you a little impression of what types of tips you can get out of the book and hopefully make you read the book. By the way, it is very easy to read, although I am not at all a native English speaker, I was able to understand the content easily and read through quite fast. That is already the first beautiful thing about this book. While reading it, I notice how the writer fulfills all her inputs and tips. The whole book is a template of how to write a paper (or - a book, of course).
 
@@ -18,4 +18,4 @@ The book gives practical tips about how to approach the task of writing and publ
 * Leave notes where detail information will be needed to fill in. Don't get yourself out of the writing flow by clarifying all the small details, it is enough for the start that you establish the order in which the information is given.
 * When you stop writing, leave a little note behind for future-you that explains you where you have stopped and what is the next action to do.
 * Revising! Many times! Count on it from the start.
-* 
+*
