@@ -8,7 +8,7 @@ Here are some ideas and tricks I found useful when working with latex.
 ## include .pdf in your latex document or beamer
 Have you ever considered reading in figures directly from pdf? No? Do it, it is really nice and if you present a paper, it prevents you from having thousands of small files with screenshots of the paper's figures!
 
-### Here is how it goes in latex beamer:
+### Here is how it works in latex beamer:
 ```latex
 \begin{frame}{<Nameofyourframe>}
 \begin{figure}
@@ -57,3 +57,11 @@ very easy and handy.
 Libre Office Impress or Power point are very handy for flowcharts or some other square-arrow shapes.
 To create those in latex beamer, I use the package TikZ:
 [TikZ](https://de.sharelatex.com/blog/2013/08/27/tikz-series-pt1.html).
+
+## Creating a .bib file
+The tedious thing about citing is usually the part of typing in the paper metadata. To prevent this, I usually research the paper I would like to cite either at the official website or in google scholar. There is a button for citing, where the BibTex formatted citation info can be copied out so you can directly paste it into your .bib file.
+
+Here is an example for a Science paper:
+![find_paper]({{ "/assets/bibtex1.jpg" | absolute_url }})
+![click_on_cite]({{ "/assets/bibtex2.jpg" | absolute_url }})
+![open_in_gedit]({{ "/assets/bibtex3.jpg" | absolute_url }})
