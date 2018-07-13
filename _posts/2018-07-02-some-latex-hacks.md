@@ -62,6 +62,6 @@ To create those in latex beamer, I use the package TikZ:
 The tedious thing about citing is usually the part of typing in the paper metadata. To prevent this, I usually research the paper I would like to cite either at the official website or in google scholar. There is a button for citing, where the BibTex formatted citation info can be copied out so you can directly paste it into your .bib file.
 
 Here is an example for a Science paper:
-![find_paper]({{ "/assets/bibtex1.jpg" | absolute_url }})
-![click_on_cite]({{ "/assets/bibtex2.jpg" | absolute_url }})
-![open_in_gedit]({{ "/assets/bibtex3.jpg" | absolute_url }})
+![bibtex1]({{ "/assets/bibtex1.jpg" | absolute_url }})
+![bibtex2]({{ "/assets/bibtex2.jpg" | absolute_url }})
+![bibtex3]({{ "/assets/bibtex3.jpg" | absolute_url }})
