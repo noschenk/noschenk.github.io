@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Creating a nice figure legend"
+date: 2019-06-26
+---
+
+Figure descriptions are extremely important. What I currently miss is kind of a "cheat sheet" list with the must-haves of a good caption. Here it is:
+
+A figure should be able to stand alone, the caption should be able to make somebody understand the figure without reading the text (entirely).
+
+### General
+- Figure captions below, for a table above
+- Is your figure really worth to be a figure? Wouldn't it be easier to have it as a text?
+- "Figure" is abbreviated to "Fig." in the text, but "Table" is not abbreviated. In descriptive legends, both words are spelled.
+- smaller font (but same) than the main text
+- "Table X;"
+
+### Title
+- short, active voice
+- sentence that summarises major results or states type of analysis used
+- in context of study question
+
+### Methods
+- only minimal, just what is absolutely needed to understand the figure
+- techniques used, model, organism, statistical tests, numbers of replicates/ repeats, ... 
+- summary statistics plotted (e.g. mean and SEM)
+
+### Results
+- if title does not state it already or if there are multiple results
+- p-values, sample size
+
+### Definitions
+- explanation of all symbols, patterns, lines, colors, non-standard abbreviations, scale bars, error bars (standard error or standard deviation?)
+    - e.g. ; * p<0.05, ** p<0.001
+- all non-intuitive features
+
+- place labels on the graphics, not in the caption (--> easier to read)
+- don't use abbreviations (or just use those which are also used in the text)
+
+
+# References  
+[Blog by Linh Ngo, 10.May 2018](https://blog.bioturing.com/2018/05/10/how-to-craft-a-figure-legend-for-scientific-papers/)
+[Blog by Michaela Panter, date unknown](https://www.aje.com/arc/writing-effective-figure-legend/)
+[Blog by Bates College, Department of Biology, Lewiston, ME 04240; 2012](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html
